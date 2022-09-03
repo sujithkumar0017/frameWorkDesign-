@@ -1,0 +1,7 @@
+2022-07-08 15:03:52,071-WDM-INFO-====== WebDriver manager ======
+2022-07-08 15:03:52,129-WDM-INFO-Current google-chrome version is 101.0.4951
+2022-07-08 15:03:52,129-WDM-INFO-Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-07-08 15:03:52,274-WDM-INFO-Driver [/home/tesark/.wdm/drivers/chromedriver/linux64/101.0.4951.41/chromedriver] found in cache
+2022-07-08 15:03:53,323-root-INFO-***************** Test_001_Login *****************
+2022-07-08 15:03:53,323-root-INFO-***************** Verifying Home Page Title *****************
+2022-07-08 15:04:10,860-root-INFO-***************** Verifying Login *****************

@@ -1,0 +1,179 @@
+2022-07-26 16:32:24,764-WDM-INFO-====== WebDriver manager ======
+2022-07-26 16:32:24,820-WDM-INFO-Current google-chrome version is 101.0.4951
+2022-07-26 16:32:24,820-WDM-INFO-Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-07-26 16:32:24,899-WDM-INFO-About to download new driver from https://chromedriver.storage.googleapis.com/101.0.4951.41/chromedriver_linux64.zip
+2022-07-26 16:32:26,080-WDM-INFO-Driver has been saved in cache [/home/tesark/.wdm/drivers/chromedriver/linux64/101.0.4951.41]
+2022-07-26 16:32:27,125-root-INFO-******Search_Customer_EmailID**************
+2022-07-26 16:32:34,396-root-INFO-************Login Successful*********
+2022-07-26 16:32:34,396-root-INFO-*********Starting for Searching a Customer********
+2022-07-26 16:32:36,300-root-INFO-********Search a Customer********
+2022-07-26 16:36:15,973-WDM-INFO-====== WebDriver manager ======
+2022-07-26 16:36:16,025-WDM-INFO-Current google-chrome version is 101.0.4951
+2022-07-26 16:36:16,026-WDM-INFO-Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-07-26 16:36:16,122-WDM-INFO-Driver [/home/tesark/.wdm/drivers/chromedriver/linux64/101.0.4951.41/chromedriver] found in cache
+2022-07-26 16:36:17,099-root-INFO-******Search_Customer_EmailID**************
+2022-07-26 16:36:23,624-root-INFO-************Login Successful*********
+2022-07-26 16:36:23,624-root-INFO-*********Starting for Searching a Customer********
+2022-07-26 16:36:27,722-root-INFO-********Search a Customer********
+2022-07-26 16:42:01,959-WDM-INFO-====== WebDriver manager ======
+2022-07-26 16:42:02,010-WDM-INFO-Current google-chrome version is 101.0.4951
+2022-07-26 16:42:02,011-WDM-INFO-Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-07-26 16:42:02,104-WDM-INFO-Driver [/home/tesark/.wdm/drivers/chromedriver/linux64/101.0.4951.41/chromedriver] found in cache
+2022-07-26 16:42:03,122-root-INFO-******Search_Customer_EmailID**************
+2022-07-26 16:42:08,403-root-INFO-************Login Successful*********
+2022-07-26 16:42:08,403-root-INFO-*********Starting for Searching a Customer********
+2022-07-26 16:42:10,223-root-INFO-********Search a Customer********
+2022-07-26 16:46:15,048-WDM-INFO-====== WebDriver manager ======
+2022-07-26 16:46:15,098-WDM-INFO-Current google-chrome version is 101.0.4951
+2022-07-26 16:46:15,099-WDM-INFO-Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-07-26 16:46:15,476-WDM-INFO-Driver [/home/tesark/.wdm/drivers/chromedriver/linux64/101.0.4951.41/chromedriver] found in cache
+2022-07-26 16:46:16,441-root-INFO-******Search_Customer_EmailID**************
+2022-07-26 16:46:23,486-root-INFO-************Login Successful*********
+2022-07-26 16:46:23,486-root-INFO-*********Starting for Searching a Customer********
+2022-07-26 16:46:25,476-root-INFO-********Search a Customer********
+2022-07-26 16:52:31,206-WDM-INFO-====== WebDriver manager ======
+2022-07-26 16:52:31,256-WDM-INFO-Current google-chrome version is 101.0.4951
+2022-07-26 16:52:31,257-WDM-INFO-Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-07-26 16:52:31,371-WDM-INFO-Driver [/home/tesark/.wdm/drivers/chromedriver/linux64/101.0.4951.41/chromedriver] found in cache
+2022-07-26 16:52:32,408-root-INFO-******Search_Customer_EmailID**************
+2022-07-26 16:52:38,327-root-INFO-************Login Successful*********
+2022-07-26 16:52:38,327-root-INFO-*********Starting for Searching a Customer********
+2022-07-26 16:52:39,841-root-INFO-********Search a Customer********
+2022-07-26 16:55:39,112-WDM-INFO-====== WebDriver manager ======
+2022-07-26 16:55:39,161-WDM-INFO-Current google-chrome version is 101.0.4951
+2022-07-26 16:55:39,162-WDM-INFO-Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-07-26 16:55:39,242-WDM-INFO-Driver [/home/tesark/.wdm/drivers/chromedriver/linux64/101.0.4951.41/chromedriver] found in cache
+2022-07-26 16:55:40,203-root-INFO-******Search_Customer_EmailID**************
+2022-07-26 16:55:46,123-root-INFO-************Login Successful*********
+2022-07-26 16:55:46,124-root-INFO-*********Starting for Searching a Customer********
+2022-07-26 16:55:48,077-root-INFO-********Search a Customer********
+2022-07-26 16:59:14,262-WDM-INFO-====== WebDriver manager ======
+2022-07-26 16:59:14,318-WDM-INFO-Current google-chrome version is 101.0.4951
+2022-07-26 16:59:14,318-WDM-INFO-Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-07-26 16:59:14,422-WDM-INFO-Driver [/home/tesark/.wdm/drivers/chromedriver/linux64/101.0.4951.41/chromedriver] found in cache
+2022-07-26 16:59:15,388-root-INFO-******Search_Customer_EmailID**************
+2022-07-26 16:59:22,276-root-INFO-************Login Successful*********
+2022-07-26 16:59:22,276-root-INFO-*********Starting for Searching a Customer********
+2022-07-26 16:59:24,147-root-INFO-********Search a Customer********
+2022-07-26 17:08:47,128-WDM-INFO-====== WebDriver manager ======
+2022-07-26 17:08:47,192-WDM-INFO-Current google-chrome version is 101.0.4951
+2022-07-26 17:08:47,192-WDM-INFO-Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-07-26 17:08:52,326-WDM-INFO-Driver [/home/tesark/.wdm/drivers/chromedriver/linux64/101.0.4951.41/chromedriver] found in cache
+2022-07-26 17:08:53,316-root-INFO-******Search_Customer_EmailID**************
+2022-07-26 17:09:00,538-root-INFO-************Login Successful*********
+2022-07-26 17:09:00,539-root-INFO-*********Starting for Searching a Customer********
+2022-07-26 17:09:02,984-root-INFO-********Search a Customer********
+2022-07-26 17:12:10,716-WDM-INFO-====== WebDriver manager ======
+2022-07-26 17:12:10,772-WDM-INFO-Current google-chrome version is 101.0.4951
+2022-07-26 17:12:10,772-WDM-INFO-Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-07-26 17:12:10,892-WDM-INFO-Driver [/home/tesark/.wdm/drivers/chromedriver/linux64/101.0.4951.41/chromedriver] found in cache
+2022-07-26 17:12:11,856-root-INFO-******Search_Customer_EmailID**************
+2022-07-26 17:12:19,353-root-INFO-************Login Successful*********
+2022-07-26 17:12:19,353-root-INFO-*********Starting for Searching a Customer********
+2022-07-26 17:12:21,755-root-INFO-********Search a Customer********
+2022-07-26 17:13:10,888-WDM-INFO-====== WebDriver manager ======
+2022-07-26 17:13:10,939-WDM-INFO-Current google-chrome version is 101.0.4951
+2022-07-26 17:13:10,940-WDM-INFO-Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-07-26 17:13:11,036-WDM-INFO-Driver [/home/tesark/.wdm/drivers/chromedriver/linux64/101.0.4951.41/chromedriver] found in cache
+2022-07-26 17:13:12,017-root-INFO-******Search_Customer_EmailID**************
+2022-07-26 17:13:17,759-root-INFO-************Login Successful*********
+2022-07-26 17:13:17,760-root-INFO-*********Starting for Searching a Customer********
+2022-07-26 17:13:19,248-root-INFO-********Search a Customer********
+2022-07-26 17:15:51,809-WDM-INFO-====== WebDriver manager ======
+2022-07-26 17:15:51,857-WDM-INFO-Current google-chrome version is 101.0.4951
+2022-07-26 17:15:51,857-WDM-INFO-Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-07-26 17:15:51,955-WDM-INFO-Driver [/home/tesark/.wdm/drivers/chromedriver/linux64/101.0.4951.41/chromedriver] found in cache
+2022-07-26 17:15:52,937-root-INFO-******Search_Customer_EmailID**************
+2022-07-26 17:16:00,283-root-INFO-************Login Successful*********
+2022-07-26 17:16:00,283-root-INFO-*********Starting for Searching a Customer********
+2022-07-26 17:16:02,164-root-INFO-********Search a Customer********
+2022-07-26 18:00:54,788-WDM-INFO-====== WebDriver manager ======
+2022-07-26 18:00:54,836-WDM-INFO-Current google-chrome version is 101.0.4951
+2022-07-26 18:00:54,837-WDM-INFO-Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-07-26 18:00:54,931-WDM-INFO-Driver [/home/tesark/.wdm/drivers/chromedriver/linux64/101.0.4951.41/chromedriver] found in cache
+2022-07-26 18:00:55,869-root-INFO-******Search_Customer_EmailID**************
+2022-07-26 18:01:01,570-root-INFO-************Login Successful*********
+2022-07-26 18:01:01,571-root-INFO-*********Starting for Searching a Customer********
+2022-07-26 18:01:03,852-root-INFO-********Search a Customer********
+2022-07-26 18:01:11,591-WDM-INFO-====== WebDriver manager ======
+2022-07-26 18:01:11,642-WDM-INFO-Current google-chrome version is 101.0.4951
+2022-07-26 18:01:11,642-WDM-INFO-Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-07-26 18:01:11,721-WDM-INFO-Driver [/home/tesark/.wdm/drivers/chromedriver/linux64/101.0.4951.41/chromedriver] found in cache
+2022-07-26 18:01:12,693-root-INFO-******Search_Customer_EmailID**************
+2022-07-26 18:01:19,259-root-INFO-************Login Successful*********
+2022-07-26 18:01:19,259-root-INFO-*********Starting for Searching a Customer********
+2022-07-26 18:01:22,292-root-INFO-********Search a Customer********
+2022-07-26 18:06:04,231-WDM-INFO-====== WebDriver manager ======
+2022-07-26 18:06:04,279-WDM-INFO-Current google-chrome version is 101.0.4951
+2022-07-26 18:06:04,280-WDM-INFO-Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-07-26 18:06:04,360-WDM-INFO-Driver [/home/tesark/.wdm/drivers/chromedriver/linux64/101.0.4951.41/chromedriver] found in cache
+2022-07-26 18:06:05,367-root-INFO-******Search_Customer_EmailID**************
+2022-07-26 18:06:12,706-root-INFO-************Login Successful*********
+2022-07-26 18:06:12,706-root-INFO-*********Starting for Searching a Customer********
+2022-07-26 18:06:14,603-root-INFO-********Search a Customer********
+2022-07-26 18:07:01,626-WDM-INFO-====== WebDriver manager ======
+2022-07-26 18:07:01,679-WDM-INFO-Current google-chrome version is 101.0.4951
+2022-07-26 18:07:01,679-WDM-INFO-Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-07-26 18:07:01,772-WDM-INFO-Driver [/home/tesark/.wdm/drivers/chromedriver/linux64/101.0.4951.41/chromedriver] found in cache
+2022-07-26 18:07:02,756-root-INFO-******Search_Customer_EmailID**************
+2022-07-26 18:07:10,134-root-INFO-************Login Successful*********
+2022-07-26 18:07:10,134-root-INFO-*********Starting for Searching a Customer********
+2022-07-26 18:07:12,038-root-INFO-********Search a Customer********
+2022-07-26 18:09:18,556-WDM-INFO-====== WebDriver manager ======
+2022-07-26 18:09:18,604-WDM-INFO-Current google-chrome version is 101.0.4951
+2022-07-26 18:09:18,605-WDM-INFO-Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-07-26 18:09:18,680-WDM-INFO-Driver [/home/tesark/.wdm/drivers/chromedriver/linux64/101.0.4951.41/chromedriver] found in cache
+2022-07-26 18:09:19,642-root-INFO-******Search_Customer_EmailID**************
+2022-07-26 18:09:27,077-root-INFO-************Login Successful*********
+2022-07-26 18:09:27,077-root-INFO-*********Starting for Searching a Customer********
+2022-07-26 18:09:29,055-root-INFO-********Search a Customer********
+2022-07-26 18:10:41,788-WDM-INFO-====== WebDriver manager ======
+2022-07-26 18:10:41,845-WDM-INFO-Current google-chrome version is 101.0.4951
+2022-07-26 18:10:41,845-WDM-INFO-Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-07-26 18:10:41,941-WDM-INFO-Driver [/home/tesark/.wdm/drivers/chromedriver/linux64/101.0.4951.41/chromedriver] found in cache
+2022-07-26 18:10:42,918-root-INFO-******Search_Customer_EmailID**************
+2022-07-26 18:10:50,328-root-INFO-************Login Successful*********
+2022-07-26 18:10:50,328-root-INFO-*********Starting for Searching a Customer********
+2022-07-26 18:10:52,303-root-INFO-********Search a Customer********
+2022-07-26 18:11:02,737-root-INFO-*******TC_SearchCustomerByEmail_004 finished**********
+2022-07-26 18:43:00,236-root-INFO-******Search_By_Firstname********
+2022-07-26 18:44:23,032-WDM-INFO-====== WebDriver manager ======
+2022-07-26 18:44:23,083-WDM-INFO-Current google-chrome version is 101.0.4951
+2022-07-26 18:44:23,083-WDM-INFO-Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-07-26 18:44:23,167-WDM-INFO-Driver [/home/tesark/.wdm/drivers/chromedriver/linux64/101.0.4951.41/chromedriver] found in cache
+2022-07-26 18:44:24,159-root-INFO-******Search_By_Firstname********
+2022-07-26 18:46:25,717-WDM-INFO-====== WebDriver manager ======
+2022-07-26 18:46:25,768-WDM-INFO-Current google-chrome version is 101.0.4951
+2022-07-26 18:46:25,768-WDM-INFO-Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-07-26 18:46:25,864-WDM-INFO-Driver [/home/tesark/.wdm/drivers/chromedriver/linux64/101.0.4951.41/chromedriver] found in cache
+2022-07-26 18:46:26,863-root-INFO-******Search_By_Firstname********
+2022-07-26 18:47:14,857-WDM-INFO-====== WebDriver manager ======
+2022-07-26 18:47:14,906-WDM-INFO-Current google-chrome version is 101.0.4951
+2022-07-26 18:47:14,907-WDM-INFO-Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-07-26 18:47:14,989-WDM-INFO-Driver [/home/tesark/.wdm/drivers/chromedriver/linux64/101.0.4951.41/chromedriver] found in cache
+2022-07-26 18:47:15,977-root-INFO-******Search_By_Firstname********
+2022-07-26 18:48:33,840-WDM-INFO-====== WebDriver manager ======
+2022-07-26 18:48:33,895-WDM-INFO-Current google-chrome version is 101.0.4951
+2022-07-26 18:48:33,895-WDM-INFO-Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-07-26 18:48:34,061-WDM-INFO-Driver [/home/tesark/.wdm/drivers/chromedriver/linux64/101.0.4951.41/chromedriver] found in cache
+2022-07-26 18:48:35,026-root-INFO-******Search_By_Firstname********
+2022-07-26 18:49:25,601-WDM-INFO-====== WebDriver manager ======
+2022-07-26 18:49:25,684-WDM-INFO-Current google-chrome version is 101.0.4951
+2022-07-26 18:49:25,685-WDM-INFO-Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-07-26 18:49:25,807-WDM-INFO-Driver [/home/tesark/.wdm/drivers/chromedriver/linux64/101.0.4951.41/chromedriver] found in cache
+2022-07-26 18:49:26,787-root-INFO-******Search_By_Firstname********
+2022-07-26 18:49:56,047-WDM-INFO-====== WebDriver manager ======
+2022-07-26 18:49:56,278-WDM-INFO-Current google-chrome version is 101.0.4951
+2022-07-26 18:49:56,278-WDM-INFO-Get LATEST chromedriver version for 101.0.4951 google-chrome
+2022-07-26 18:49:56,354-WDM-INFO-Driver [/home/tesark/.wdm/drivers/chromedriver/linux64/101.0.4951.41/chromedriver] found in cache
+2022-07-26 18:49:57,369-root-INFO-******Search_By_Firstname********
+2022-07-26 18:50:17,131-root-INFO-*******Test_005_SearchCustomerByFirstname(Passed)*******
+2022-07-27 15:10:55,309-WDM-INFO-====== WebDriver manager ======
+2022-07-27 15:10:55,523-WDM-INFO-Current firefox version is 101.0
+2022-07-27 15:10:55,523-WDM-INFO-Get LATEST geckodriver version for 101.0 firefox
+2022-07-27 15:10:55,757-WDM-INFO-Getting latest mozilla release info for v0.31.0
+2022-07-27 15:10:55,968-WDM-INFO-About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.31.0/geckodriver-v0.31.0-linux64.tar.gz
+2022-07-27 15:10:58,409-WDM-INFO-Driver has been saved in cache [/home/tesark/.wdm/drivers/geckodriver/linux64/v0.31.0]
+2022-07-27 15:11:03,505-root-INFO-******Search_Customer_EmailID**************
+2022-07-27 15:11:08,420-root-INFO-************Login Successful*********
+2022-07-27 15:11:08,420-root-INFO-*********Starting for Searching a Customer********
